@@ -10,6 +10,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.15.9",
+    "@react-native-community/netinfo": "^6.0.3",
+    "aws-amplify": "^4.3.3",
     "react": "17.0.2",
     "react-native": "0.66.1",
     "react-native-image-picker": "^4.1.2",
